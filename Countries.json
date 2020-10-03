@@ -1,0 +1,104 @@
+﻿{
+  "countries": [
+    {
+      "name": "United States of America",
+      "capitalCity": "Washington D.C.",
+      "size": "9,833,520 km squared",
+      "population": "328,239,523",
+      "populationDensity": "33.6 per km squared",
+      "currency": "United States Dollar USD",
+      "gdp": "21.439 trillion",
+      "goverment": "Federal Presidential Constitutional Republic"
+    },
+    {
+      "name": "People's Republic of China",
+      "capitalCity": "Beijing",
+      "size": "9,596,961 km squared",
+      "population": "1,427,647,786",
+      "populationDensity": "145 per km squared",
+      "currency": "Renminbi (Yuan)",
+      "gdp": "14.140 trillion",
+      "goverment": "Unitary Marxist-Leninist One-party Socialist Republic"
+    },
+    {
+      "name": "Japan",
+      "capitalCity": "Tokyo",
+      "size": "377,975 km squared",
+      "population": "126,150,000",
+      "populationDensity": "334 per km squared",
+      "currency": "Japanese Yen",
+      "gdp": "5.413 trillion",
+      "goverment": "Unitary Parliamentary Constitutional Monarchy"
+    },
+    {
+      "name": "Federal Republic of Germany",
+      "capitalCity": "Berlin",
+      "size": "357,386 km squared",
+      "population": "83,149,300",
+      "populationDensity": "232 per km squared",
+      "currency": "Euro",
+      "gdp": "3.863 trillion",
+      "goverment": "Federal Parliamentary Republic"
+    },
+    {
+      "name": "Republic of India",
+      "capitalCity": "New Delhi",
+      "size": "3,287,263 km squared",
+      "population": "1,352,642,280",
+      "populationDensity": "405 per km squared",
+      "currency": "Indian Rupee (INR)",
+      "gdp": "2.936 trillion",
+      "goverment": "Federal Parliamentary Constitutional Republic"
+    },
+    {
+      "name": "United Kingdom of Great Britain and Northern Ireland",
+      "capitalCity": "London",
+      "size": "242,496 km squared",
+      "population": "67,545,757",
+      "populationDensity": "270.7 per km squared",
+      "currency": "Pound Sterling (GBP)",
+      "gdp": "2.744 trillion",
+      "goverment": "Unitary Parliamentary Contitutional Monarchy"
+    },
+    {
+      "name": "French Republic",
+      "capitalCity": "Paris",
+      "size": "640,679 km squared",
+      "population": "67,022,000",
+      "populationDensity": "104 per km squared",
+      "currency": "Euro",
+      "gdp": "2.771 trillion",
+      "goverment": "Unitary Semi-presidential Republic"
+    },
+    {
+      "name": "Italian Republic",
+      "capitalCity": "Rome",
+      "size": "301,340 km squared",
+      "population": "60,359,546",
+      "populationDensity": "201.3 per km squared",
+      "currency": "Euro",
+      "gdp": "1.989 trillion",
+      "goverment": "Unitary Parliamentary Republic"
+    },
+    {
+      "name": "Federative Republic of Brazil",
+      "capitalCity": "Brasilia",
+      "size": "8,515,767 km squared",
+      "population": "210,147,125",
+      "populationDensity": "25 per km squared",
+      "currency": "Real (BRL)",
+      "gdp": "1.893 trillion",
+      "goverment": "Federal Presidential Constitutional Republic"
+    },
+    {
+      "name": "Canada",
+      "capitalCity": "Ottawa",
+      "size": "9,984,670 km squared",
+      "population": "37,797,496",
+      "populationDensity": "3.92 per km squared",
+      "currency": "Canadian Dollar (CAD)",
+      "gdp": "1.9 trillion",
+      "goverment": "Federal Parliamentary Constitutional Monarchy"
+    }
+  ]
+}
